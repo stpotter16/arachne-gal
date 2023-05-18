@@ -7,7 +7,6 @@ authors = ["Sam Potter <spotter1642@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/stpotter16/arachne-gql"
 keywords = ["graphql"]
-packages = [{include = "arachne_gql"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
